@@ -7,4 +7,4 @@ checking the ssh connection
 solved the conflict without using mergetool
 
 changing the newfile for pre-reveive
-dnsjv
+
